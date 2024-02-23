@@ -1,0 +1,4 @@
+Id 	 	  Name 	   Price 	  Quantity
+[0001 	 jeans 	  1300.00 Naira 	 5 
+, 0002 	 plate 	  9000.00 Naira 	 4 
+]
